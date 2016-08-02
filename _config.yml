@@ -6,9 +6,10 @@ color:
   saturation: 0.026880885707214475
   rhythmicContrast: 0.644675912335515
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Revolution
+title: Revolve Your Future
