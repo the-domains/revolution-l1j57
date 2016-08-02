@@ -1,4 +1,3 @@
-layout_spectrum: 0.8464654167182744
 typography_spectrum: 0.567185437772423
 color:
   brandStrength: 0.56848105462268
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.8464654167182744
 name: Revolution
 title: Revolve Your Future
+description: 'If this don''t change your life, nothing will...'
